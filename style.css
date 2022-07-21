@@ -61,7 +61,7 @@ body {
     transform: scale(0.5);
   }
   
-  .header-content h1 {
+  .header-text h1 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 700;
@@ -70,7 +70,7 @@ body {
     color: #FFFFFF;
   }
   
-  .header-content p {
+  .header-text p {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
@@ -82,7 +82,7 @@ body {
     padding-bottom: 30px;
   }
   
-  .header-content {
+  .header-text {
     padding: 100px 10px 100px 101px;
   }
   
@@ -363,7 +363,7 @@ body {
       grid-template-columns: repeat(2, 1fr);
     }
   
-    .header-content h1 {
+    .header-text h1 {
       font-size: 48px;
       line-height: 70px;
       color: #FFFFFF;
@@ -383,19 +383,19 @@ body {
       display: block;
     }
   
-    .header-content h1 {
+    .header-text h1 {
       font-size: 37px;
       line-height: 40px;
     }
   
-    .header-content p {
+    .header-text p {
       font-size: 13px;
       line-height: 23px;
       padding-top: 10px;
       padding-bottom: 15px;
     }
   
-    .header-content {
+    .header-text {
       padding: 40px 10px 40px 50px;
     }
   
@@ -459,7 +459,7 @@ body {
       grid-template-columns: 1fr;
     }
   
-    .header-content h1 {
+    .header-text h1 {
       font-size: 31px;
       line-height: 40px;
       text-align: center;
@@ -469,12 +469,12 @@ body {
       display: block;
     }
   
-    .header-content {
+    .header-text {
       padding: 40px 25px 0px 25px;
       text-align: center;
     }
   
-    .header-content p {
+    .header-text p {
       text-align: center;
     }
   
